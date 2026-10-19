@@ -6,8 +6,6 @@ A small interactive game based on the famous Monty Hall problem, built with **Ja
 
 **[Play the game](https://monty-hall-ivory.vercel.app)**
 
-*Replace this link with the URL of your deployed game.*
-
 ## About
 
 The Monty Hall problem is a probability puzzle inspired by a TV game show. The player chooses one of three doors. Behind one door is a car, while the other two hide goats.
