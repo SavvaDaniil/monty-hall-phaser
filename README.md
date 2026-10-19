@@ -4,7 +4,7 @@ A small interactive game based on the famous Monty Hall problem, built with **Ja
 
 ## 🎮 Play Online
 
-**[Play the game](https://YOUR-PROJECT.vercel.app)**
+**[Play the game](https://monty-hall-ivory.vercel.app)**
 
 *Replace this link with the URL of your deployed game.*
 
